@@ -23,6 +23,9 @@
 - Flask
 - REST API Development
 - Authentication Systems (JWT)
+- FastAPI
+- Numpy
+- Pandas
 
 ### 🗄️ Database
 - MySQL
@@ -33,11 +36,17 @@
 - LLM Applications
 - Resume Analysis Systems
 - Document Intelligence
+- LangChain
+- Propmt Engineering
 
 ### 🌐 Frontend & Tools
 - Streamlit
+- HTML
+- CSS
 - Tailwind CSS
 - Git & GitHub
+- Postman
+- VS Code
 
 ---
 
@@ -68,14 +77,6 @@ AI tool that analyzes resumes for skills, ATS score & improvements.
 Converts job descriptions into interview questions using AI.
 
 🔗 Live: https://jd-2-q.vercel.app
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
 
