@@ -12,7 +12,7 @@
 - 💼 Intern at **Axilivo Technologies Pvt. Ltd.**
 - 🧠 Skilled in **Generative AI, LLM Apps & REST APIs**
 - 🏗️ Building scalable backend systems using Flask
-- 📫 Email: yourgmail@gmail.com
+- 📫 Email: aayush2598@gmail.com
 
 ---
 
