@@ -91,7 +91,6 @@ Maharaja Ganga Singh University — 71.44%
  
 ## 🌐 Connect With Me
 
-- 📧 aayush2598@gmail.com  
 - 🧑‍💻 https://github.com/aayush2598  
 - 💼 LinkedIn: https://linkedin.com/in/aayush2598  
 - 📸 Instagram: https://instagram.com/imaayush98  
